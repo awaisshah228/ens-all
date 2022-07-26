@@ -1,0 +1,41 @@
+{
+  "name": "ens",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000n\u0000s\u0000-\u0000p\u0000r\u0000i\u0000v\u0000a\u0000t\u0000e\u0000-\u0000h\u0000a\u0000r\u0000d\u0000h\u0000a\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaisshah228/ens-private-hardhat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaisshah228/ens-private-hardhat/issues"
+  },
+  "homepage": "https://github.com/awaisshah228/ens-private-hardhat#readme",
+  "devDependencies": {
+    "@ethersproject/abi": "^5.6.4",
+    "@ethersproject/providers": "^5.6.8",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.1",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.2",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "chai": "^4.3.6",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.10.0",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.7.21",
+    "typechain": "^8.1.0"
+  },
+  "dependencies": {
+    "@ensdomains/ens-contracts": "0.0.12",
+    "dotenv": "^16.0.1"
+  }
+}
